@@ -22,8 +22,8 @@ int recursion(int n) {
 }
 int main() {
   cout << "Factorial is  " << recursion(4) << endl;
-  cout << "Summation is  " << sum(5) << endl;
-  cout << "Print each step of summation " << endl;
+  cout << "Summation is   " << sum(5) << endl;
+  cout << "Print each step of summation of summation  is" << endl;
   cout << summation(6);
   return 0;
 }
